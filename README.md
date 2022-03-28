@@ -3,8 +3,8 @@
 My name is Miguel Porfírio and I'm in my third year of studies towards a bachelor's in Computer Science at Instituto Superior Tecnico.
 <h1 align="Center">Welcome to my page!
 
-
-<h1 align="Center"> <img src="https://media.giphy.com/media/Nx0rz3jtxtEre/giphy.gif" width="300px">
+ 
+<h1 align="Center"> <br /> <img src="https://media.giphy.com/media/Nx0rz3jtxtEre/giphy.gif" width="300px">
  <br />
  <br /> 
    <!-- Markdown -->  
