@@ -1,7 +1,7 @@
 <h1 align="Center">  Hello! <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="40px" /> </h1>
 
-My name is Miguel Porfírio and I'm pursuing a Master's Degree in Computer Science and Engineering at Instituto Superior Tecnico.  
-Focusing my Master's in CyberSecurity and Game Development.
+My name is Miguel Porfírio and I'm pursuing a Master's Degree in Computer Science and Engineering at Instituto Superior Tecnico.
+
 <h1 align="Center">Welcome to my page!
 
  
