@@ -20,6 +20,8 @@ Focusing my Master's in CyberSecurity and Game Development.
   </a> 
   <a href="https://skillicons.dev/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> 
   </a> 
+  <a href="https://skillicons.dev/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> 
+  </a> 
   <a href="https://skillicons.dev/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> 
   </a>
   <a href="https://skillicons.dev/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> 
@@ -29,12 +31,6 @@ Focusing my Master's in CyberSecurity and Game Development.
   <a href="https://skillicons.dev/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> 
   </a>
  <a href="https://skillicons.dev/" target="_blank"> <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Github-Dark.svg" alt="git" width="40" height="40"/>
-  </a>
- <a href="https://skillicons.dev/" target="_blank"> <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/JavaScript.svg" alt="git" width="40" height="40"/>
-  </a>
- <a href="https://skillicons.dev/" target="_blank"> <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/React-Dark.svg" alt="git" width="40" height="40"/>
-  </a>
- <a href="https://skillicons.dev/" target="_blank"> <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/PostgreSQL-Dark.svg" alt="git" width="40" height="40"/>
   </a>
  <a href="https://skillicons.dev/" target="_blank"> <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/VSCode-Dark.svg" alt="git" width="40" height="40"/>
   </a>
